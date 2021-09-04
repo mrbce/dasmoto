@@ -1,0 +1,41 @@
+.header {
+    text-align: center;
+    background: url('../images/pattern.webp');
+}
+
+.header-title {
+    font-family: 'Helvetica';
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.brushes-header {
+    font-family: 'Helvetica';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames-header {
+    font-family: 'Helvetica';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint-header {
+    font-family: 'Helvetica';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.link {
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: blue;
+}
